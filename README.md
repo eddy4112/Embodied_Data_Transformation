@@ -2,6 +2,8 @@
 
 <img width="960" alt="dt" src="https://github.com/user-attachments/assets/8b9352a0-3128-4d0d-9cb0-ed6dd91462d5" />
 
+**Please have a look at the Release section to download!**
+
 **How to Cite ⚙️**
 
 Embodied Data Transformation has been published at IEEE TVCG 2023, https://ieeexplore.ieee.org/abstract/document/10197223
