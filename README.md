@@ -1,6 +1,6 @@
 # Embodied Data Transformation
 
-<img width="960" alt="dt" src="https://github.com/user-attachments/assets/433653ad-abde-45e4-aa9f-899cddb92baf" />
+<img width="960" alt="dt" src="https://github.com/user-attachments/assets/8b9352a0-3128-4d0d-9cb0-ed6dd91462d5" />
 
 **How to Cite ⚙️**
 
